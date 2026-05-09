@@ -71,3 +71,86 @@ Footer:
 
 - create the footer tag after the main tag
 - put the text Footer inside the footer tags
+
+###5-index.html
+
+- inside your <main> section
+- remove the text in main, create these sections:
+ - create first section and put the text Hero section inside
+ - create second section and put the text Services section inside
+ - create third section and put the text Works section inside
+ - create fourth section and put the text About section inside
+ - create fifth section and put the text Latest news section inside
+ - create sixth section and put the text Testimonials section inside
+ - create seventh section and put the text Contact section inside
+
+ ###6-index.html
+
+Work articles:
+
+- inside the section Works section
+- add 3 article tags - inside each article write Work # where the hashtag will be the ordered number (1, 2, or 3) 
+
+News articles:
+
+- inside the section Latest news section
+- add 3 article tags - inside each article write Article # where the hashtag will be the ordered number (1, 2, or 3) 
+
+Testimonial articles:
+
+- inside the section Testimonials section
+- add 3 article tags - inside each article write Testimonial # where the hashtag will be the ordered number (1, 2, or 3) 
+
+###7-index.html
+
+- remove the Header text inside the <header>
+- create the nav tag inside the header tag
+- it should remain empty for now
+
+###8-index.html
+
+- create the level 1 heading inside your main before your sections
+- put text Homepage in your heading tag
+
+###9-index.html
+
+- in the section tag with the the text Hero section, remove the text and create a level 2 heading with text We help you build your brand!
+- in the section tag with the the text Services section, remove the text and create a level 2 heading with text Services
+- in the section tag with the the text Works section, remove the text and create a level 2 heading with text Works
+- in the section tag with the the text About section, remove the text and create a level 2 heading with text About Us
+- in the section tag with the the text Latest news section, remove the text and create a level 2 heading with text Latest news
+- in the section tag with the the text Testimonials section, remove the text and create a level 2 heading with text Testimonials
+- in the section tag with the the text Contact section, remove the text and create a level 2 heading with text Contact
+
+###10-index.html
+
+Services headings:
+
+- Inside the section containing the h2 heading Services, add these elements right after the h2:
+- create a level 3 heading with text Design & Concept
+- create a level 3 heading with text Digital Strategy
+- create a level 3 heading with text Content Strategy
+- create a level 3 heading with text UX Design
+- create a level 3 heading with text Web Development
+- create a level 3 heading with text Social Media 
+
+Works headings:
+
+- Inside the section containing the h2 heading Works:
+- in the first article, replace the text with a level 3 heading with text Interior Design
+- in the second article, replace the text with a level 3 heading with text Web Development
+- in the third article, replace the text with a level 3 heading with text Personal Brand 
+
+About Us headings:
+
+- Inside the section containing the h2 heading About Us, after the h2 heading, create these elements in this order:
+- a level 3 heading with text Who are we
+- a level 3 heading with text Our culture
+- a level 3 heading with text How we work 
+
+Latest news headings:
+
+- Inside the section containing the h2 heading Latest news:
+- in the first article replace the text with a level 3 heading with text Hoc loco tenere se Triarius non potuit.
+- in the second article replace the text with a level 3 heading with text Ut alios omittam, hunc appello, quem ille unum secutus est.
+- in the third article replace the text with a level 3 heading with text Bestiarum vero nullum iudicium puto.
