@@ -360,14 +360,14 @@ ul.row {
     position: relative;
 }
 
-.card-works a,
+.card-work a,
 .card-title a {
     display: block;
     text-decoration: none;
     padding-top: 45%;
 }
 
-.card-works a::after,
+.card-work a::after,
 .card-title a::after {
     position: absolute;
     top: 0;
