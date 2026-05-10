@@ -360,13 +360,15 @@ ul.row {
     position: relative;
 }
 
-.card-works .card-title a {
+.card-works,
+.card-title a {
     display: block;
     text-decoration: none;
     padding-top: 45%;
 }
 
-.card-works .card-title a::after {
+.card-works,
+.card-title a::after {
     position: absolute;
     top: 0;
     left: 0;
