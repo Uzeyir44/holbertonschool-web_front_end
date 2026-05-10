@@ -167,9 +167,9 @@ a:active {
     color: var(--nav-item-link-hover);
 }
 
-ul .row {
+.row ul {
     margin: 0;
-    padding: none;
+    padding: 0;
     list-style: none;
 }
 
